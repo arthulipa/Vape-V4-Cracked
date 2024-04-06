@@ -1,0 +1,17 @@
+------------------------------------------------------
+
+[+] Instale o Python 3.9.0
+[+] Entre na pasta "Server"
+[+] Execute o "server.exe" e espere carregar
+[+] Após carregar, entre na pasta "Vape"
+[+] Arraste o "Vape_V4.exe" para o "Kangaroo Patcher.exe"
+
+------------------------------------------------------
+
+[+] Req: Minecraft Forge, Python, & Vape V4
+
+- Aproveite seu Vape Lite!
+
+discord.gg/karoushi
+
+------------------------------------------------------
